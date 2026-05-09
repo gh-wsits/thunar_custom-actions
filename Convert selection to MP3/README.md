@@ -1,4 +1,4 @@
-This custom action converts one ore more selected audio files to MP3 with a right-click on the file in thunar and choosing "Convert selection to .mp3".
+This custom action converts one ore more selected audio files to MP3 with a right-click on one of the selected files in thunar and choosing "Convert selection to .mp3".
 
 ### Screenshot
 
