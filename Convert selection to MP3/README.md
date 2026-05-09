@@ -1,10 +1,10 @@
-This custom action converts selected audio files to MP3.
+This custom action converts selected audio files to MP3. It uses zenity to display dialogs and gstreamer to convert the audio file.
 
 **Dependencies**
-zenity
-gstreamer
 
-It uses zenity to display dialogs and gstreamer to convert the audio file.
+- zenity
+
+- gstreamer
 
 **Screenshot**
 
