@@ -1,1 +1,0 @@
-parallel mogrify -format jpg -quality 90 ::: %F
