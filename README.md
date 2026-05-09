@@ -3,7 +3,7 @@ A collection of self-developed custom actions for the xfce file browser thunar
 
 **Convert selection to JPEG**
 
-Select a bunch of images, right click and choose "Convert selection to JPEG". This converts all selected images to JPEG. The selcted images will not be deleted.
+Select a bunch of images, right click and choose "Convert selection to JPEG". This converts all selected images to JPEG.
 
 **Convert selection to MP3**
 
