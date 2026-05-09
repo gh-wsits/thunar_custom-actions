@@ -1,0 +1,1 @@
+identify -verbose %f | zenity --text-info --title="Image related information for %n" --width=1500 --height=1000
