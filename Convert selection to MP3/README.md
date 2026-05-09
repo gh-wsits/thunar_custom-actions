@@ -1,1 +1,1 @@
-![Screenshot](/Convert%20selection%20to%20MP3/ConvertToMP3.png)
+![Screenshot](/Convert%20selection%20to%20MP3/ConvToMP3.png)
