@@ -27,5 +27,6 @@ Open thunar and select "Edit" | "Configure custom actions...".
 Configure the custom action like shown in the following screenshots:
 
 ![GetImageMetadata_action](/Get%20image%20metadata/Screenshots/GetImageMetadata_action.png)
+
 ![GetImageMetadata_conditions](/Get%20image%20metadata/Screenshots/GetImageMetadata_conditions.png)
 
