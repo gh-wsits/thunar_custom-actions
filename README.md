@@ -22,3 +22,5 @@ This custom action displays the metadata of a selected image file with a right-c
 This custom action refreshes the thumbnails of one ore more selected media files with a right-click on one of the selected files in thunar and choosing "Refresh selected thumbnails".
 
 ### Sort by aspect ratio and size
+
+This custom action moves the images of the current folder into subfolders by aspect ratio and size, with a right-click on one of the selected files in thunar and choosing "Sort by aspect ratio and size".
