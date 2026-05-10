@@ -15,7 +15,7 @@ Installing does *not* require `root` access.
 
 ### Dependencies
 
-It uses zenity to display dialogs and gstreamer to convert the audio file. So make sure the zenity and gstreamer packages are installed.
+It uses "zenity" to display dialogs and "gstreamer" to convert the audio file. So make sure the zenity and gstreamer packages are installed.
 
 ### Configuring the custom action
 
