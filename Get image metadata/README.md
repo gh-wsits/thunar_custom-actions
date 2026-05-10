@@ -14,7 +14,7 @@ Installing does *not* require `root` access.
 
 ### Dependencies
 
-It uses zenity to display the graphical dialog and identify from ImageMagic to fetch the metadata. So make sure the zenity and ImageMagic packages are installed.
+It uses "zenity" to display the graphical dialog and "identify" from "ImageMagic" to fetch the metadata. So make sure the zenity and ImageMagic packages are installed.
 
 ### Configuring the custom action
 
