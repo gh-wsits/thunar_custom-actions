@@ -20,4 +20,5 @@ It uses zenity to display dialogs and gstreamer to convert the audio file. So ma
 ### Configuring the custom action
 
 ![Screenshot](/Convert%20selection%20to%20MP3/Screenshots/ConvToMP3_action.png)
+
 ![Screenshot](/Convert%20selection%20to%20MP3/Screenshots/ConvToMP3_conditions.png)
