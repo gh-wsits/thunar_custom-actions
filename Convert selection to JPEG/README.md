@@ -1,3 +1,5 @@
+# Convert selection to JPEG
+
 This custom action converts one ore more selected image files to JPEG with a right-click on one of the selected files in thunar and choosing "Convert selection to .JPEG".
 
 ### Dependencies
