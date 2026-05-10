@@ -1,3 +1,5 @@
+# Get image metadata
+
 This custom action displays the metadata of a selected image file with a right-click on one of the selected files in thunar and choosing "Get image metadata".
 
 ### Screenshot
