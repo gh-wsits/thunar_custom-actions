@@ -27,6 +27,10 @@ Copy the file `StructPicturesBySize.sh` to `~/.local/bin/` or any other folder, 
 
 Enter `chmod +x ~/.local/bin/DistributeFiles.sh` in the terminal and press `Enter`.
 
+### Customization
+
+- The name of the subfolders can be changed by modifying `TargetFolder="$SourceFolder/$AspectRatio ($PictureWidth*$PictureHeight)"`.
+
 ### Configuring the thunar custom action
 
 ![Screenshot](/Sort%20by%20aspect%20ratio%20and%20size/Screenshots/StructPicturesBySize_action.png)
