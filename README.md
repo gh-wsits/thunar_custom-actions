@@ -11,6 +11,8 @@ This custom action converts one ore more selected audio files to MP3 with a righ
 
 ### Distribute files in subfolder
 
+This script distributes files from a folder containing thousands of files into subfolders with one thousand files each.
+
 ### Get image metadata**
 
 This custom action displays the metadata of a selected image file with a right-click on one of the selected files in thunar and choosing "Get image metadata".
