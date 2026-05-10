@@ -6,7 +6,7 @@ This custom action converts one ore more selected image files to JPEG with a rig
 
 This custom action requires no `root`access.
 
-It uses parallel to perform many conversions at the same time, in order to drastically speed up the process. For the actual conversion it uses mogrify, which is part of ImageMagic. So make sure the `parallel` and `ImageMagic` packages are installed.
+It uses "parallel" to perform many conversions at the same time, in order to drastically speed up the process. For the actual conversion it uses "mogrify", which is part of "ImageMagic". So make sure the parallel and ImageMagic packages are installed.
 
 ### Limitations
 - I currently only tested this with .png files, but it should work with all files supported by ImageMagic.
