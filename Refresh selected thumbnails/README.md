@@ -1,3 +1,5 @@
+# Refresh selected thumbnails
+
 This custom action refreshes the thumbnails of one ore more selected media files with a right-click on one of the selected files in thunar and choosing "Refresh selected thumbnails".
 
 ### Dependencies
