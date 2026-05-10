@@ -10,7 +10,7 @@ This custom action moves the images of the current folder into subfolders by asp
 
 ### Dependencies
 
-The script uses zenity to display a graphical dialog box and identify from ImageMagic to fetch the metadata. It also uses gawk to process strings, which I think is not installed by default in all Linux distributions. So make sure the zenity, ImageMagic and gawk packages are installed.
+The script uses "zenity" to display a graphical dialog box and "identify" from "ImageMagic" to fetch the metadata of the images. It also uses "gawk" to process strings, which I think is not installed by default in all Linux distributions. So make sure the zenity, ImageMagic and gawk packages are installed.
 
 ### What it does
 
