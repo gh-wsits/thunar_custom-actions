@@ -2,7 +2,7 @@ This custom action displays the metadata of a selected image file with a right-c
 
 ### Screenshot
 
-![Screenshot](/Get%20image%20metadata/GetImageMetadata.png)
+![Screenshot](/Get%20image%20metadata/Screenshots/GetImageMetadata.png)
 
 ### Installation
 
@@ -24,6 +24,6 @@ Open thunar and select "Edit" | "Configure custom actions...".
 
 Configure the custom action like shown in the following screenshots:
 
-![GetImageMetadata_action](/Get%20image%20metadata/GetImageMetadata_action.png)
-![GetImageMetadata_conditions](/Get%20image%20metadata/GetImageMetadata_conditions.png)
+![GetImageMetadata_action](/Get%20image%20metadata/Screenshots/GetImageMetadata_action.png)
+![GetImageMetadata_conditions](/Get%20image%20metadata/Screenshots/GetImageMetadata_conditions.png)
 
