@@ -6,7 +6,7 @@ This custom action refreshes the thumbnails of one ore more selected media files
 
 This custom action requires no `root`access.
 
-It uses parallel to process many files at the same time, in order to drastically speed up the process. So make sure the `parallel` package is installed.
+It uses "parallel" to process many files at the same time, in order to drastically speed up the process. So make sure the parallel package is installed.
 
 ### Configuring the action
 
