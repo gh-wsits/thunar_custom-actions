@@ -22,5 +22,5 @@ Open thunar and select "Edit" | "Configure custom actions...".
 
 Configure the custom action like shown in the following screenshots:
 
-![ConvToJPEG_action](/Convert%20selection%20to%20JPEG/ConvToJPEG_action.png)
-![ConvToJPEG_conditions](/Convert%20selection%20to%20JPEG/ConvToJPEG_conditions.png)
+![ConvToJPEG_action](/Convert%20selection%20to%20JPEG/Screenshots/ConvToJPEG_action.png)
+![ConvToJPEG_conditions](/Convert%20selection%20to%20JPEG/Screenshots/ConvToJPEG_conditions.png)
