@@ -19,4 +19,5 @@ Open thunar and select "Edit" | "Configure custom actions...".
 Configure the custom action like shown in the following screenshots:
 
 ![RefreshThumbnails_action](/Refresh%20selected%20thumbnails/Screenshots/RefreshThumbnails_action.png)
+
 ![RefreshThumbnails_conditions](/Refresh%20selected%20thumbnails/Screenshots/RefreshThumbnails_conditions.png)
